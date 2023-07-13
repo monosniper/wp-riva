@@ -1,16 +1,25 @@
 {
   "files": {
-    "static/js/1.chunk.js": "/wp-content/themes/wp-riva/static/js/1.chunk.js",
-    "static/js/1.chunk.js.map": "/wp-content/themes/wp-riva/static/js/1.chunk.js.map",
+    "main.css": "/wp-content/themes/wp-riva/static/css/main.chunk.css",
     "main.js": "/wp-content/themes/wp-riva/static/js/main.chunk.js",
     "main.js.map": "/wp-content/themes/wp-riva/static/js/main.chunk.js.map",
     "runtime-main.js": "/wp-content/themes/wp-riva/static/js/bundle.js",
     "runtime-main.js.map": "/wp-content/themes/wp-riva/static/js/bundle.js.map",
-    "index.php": "/wp-content/themes/wp-riva/index.php"
+    "static/css/2.chunk.css": "/wp-content/themes/wp-riva/static/css/2.chunk.css",
+    "static/js/2.chunk.js": "/wp-content/themes/wp-riva/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/wp-content/themes/wp-riva/static/js/2.chunk.js.map",
+    "index.php": "/wp-content/themes/wp-riva/index.php",
+    "precache-manifest.0514b8da4d1beab2ced1d624c069770e.js": "/wp-content/themes/wp-riva/precache-manifest.0514b8da4d1beab2ced1d624c069770e.js",
+    "service-worker.js": "/wp-content/themes/wp-riva/service-worker.js",
+    "static/css/2.chunk.css.map": "/wp-content/themes/wp-riva/static/css/2.chunk.css.map",
+    "static/css/main.chunk.css.map": "/wp-content/themes/wp-riva/static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE.txt": "/wp-content/themes/wp-riva/static/js/2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/bundle.js",
-    "static/js/1.chunk.js",
+    "static/css/2.chunk.css",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
     "static/js/main.chunk.js"
   ]
 }
